@@ -15,7 +15,10 @@ function addOrder() {
   // طبق الخطوة 7 تحت هذا الكومنت
   load()
 }
+
 let container = document.getElementById("container");
+
+
 function load() {
 
   // طبّق الخطوة 6 تحت هذا الكومنت
