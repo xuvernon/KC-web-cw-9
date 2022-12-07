@@ -21,8 +21,6 @@ let container = document.getElementById("container");
 
 function load() {
 
-
-  
   // طبّق الخطوة 6 تحت هذا الكومنت
   orders.forEach(x => {
 
